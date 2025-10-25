@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- 🌸 Pink Aesthetic README 🌸 -->
 
-<!--
-**puppiepaww/puppiepaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media1.tenor.com/m/WeZX5U3OKTYAAAAd/divider-hello-kitty.gif" alt="cute pink header" width="400">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">♡ Welcome ♡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>16 | Female | Pink lover 💕</b><br>
+  <i>"Soft hearts make the world brighter!"</i>
+</p>
+
+---
+
+### 🌷 About Me
+🌸 I’m a cozy pink soul who adores all things cute and sparkly!  
+💗 Lover of pastel vibes, cozy music, and soft aesthetics.  
+🌈 I love fictional comfort characters and daydream worlds!
+
+---
+
+### 💞 Fictionkins
+🍓 **Cosmo (DW)**
